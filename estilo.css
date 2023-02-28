@@ -1,0 +1,12 @@
+h2 {
+    background: rgb(201, 193, 193); font-family: Arial;
+}
+h1 {
+    background: rgb(162, 160, 160); color: rgb(93, 93, 198); text-align: center; font-size: 30px; text-align:center;
+}
+header {background:rgb(224, 219, 219); text-align:center;}
+span{font-weight:bold; font-style: italic;}
+dt {font-weight:bold; font-style: italic;}
+footer {background: blue}
+p {color: white;}
+article {text-align: center}
