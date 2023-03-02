@@ -1,0 +1,66 @@
+H1 {
+    color: skyblue;
+    text-align: center;
+    background-color:grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-image: url(paisajes+naturales+nuevas+fotos+lagos+montañas+flores+y+bosques+\(1\).webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(182, 172, 172);
+}
+.foto-palmera {
+    text-align: center;
+}
+.menu {
+    font-family: 'Times New Roman', Times, serif;
+}
+.datospersonales {
+    font-family:'Times New Roman', Times, serif
+}
+
+.titulo {
+    color: skyblue;
+    background-color: grey;
+}
+span {
+ font-weight:bold;
+ font-style: italic;
+}
+.formacionacademica {
+    font-family: 'Times New Roman', Times, serif;
+}
+.titulo-academica {
+    color: skyblue; background-color: grey;
+}
+dt {
+    font-style:italic;
+    font-weight:bold;
+}
+.experiencia-laboral {
+    font-family: 'Times New Roman', Times, serif;
+}
+.titulo-laboral {
+    color: skyblue;
+    background-color: grey;
+}
+.redessociales {
+    background-color:skyblue;
+    font-family:'Times New Roman', Times, serif
+    text-align: center;
+}
+.titulo-sociales {
+    text-align:center;
+    color:white;
+    font-size: 20px;
+}
+.imagendeig {
+    font-size: small;
+}
+article {
+    font-size: medium;
+    text-align: center;
+}
