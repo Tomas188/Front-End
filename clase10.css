@@ -1,0 +1,200 @@
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&family=Roboto&display=swap%27');
+*{
+    padding:0;
+    margin:0;
+font-family: "Roboto", sans-serif;
+box-sizing: 0;
+}
+.primeraparte {
+    background-color: #1CD1B0;
+    height: 39px;
+    left: 0;
+    background-size: cover;
+    text-indent: 60px;
+    padding-top: 10px;
+}
+
+.descuentos {
+    font-style: normal;
+    font-size: 15px;
+    text-indent: 80px;
+}
+.segundaparte {
+    background: #00669F;
+    height: 90px;
+    box-shadow: 1px 8px 5px rgb(199 199 199);
+    position: sticky;
+    top: 0px;
+    }
+.heroes { 
+    text-indent: 60px;   
+height: 47px;
+padding-top: 20px;
+}
+
+.izquierda {
+    margin: 100px;
+    display: inline-block;
+    
+}
+.medio {
+    display: inline-block;
+    text-indent: -30px;
+}
+.derecha {
+    display: inline-block;
+    text-indent: 80px;
+}
+.imagenes {
+    position: relative;
+    height: 100px;
+    padding-top: 150px;
+}
+.primero-izquierda {
+margin-top:-290px;
+text-indent: 120px;
+}
+.primero-medio {
+    margin-top:-32px;
+    text-indent: 490px;
+}
+.primero-derecha {
+    margin-top:-36px;
+    text-indent: 880px;
+}
+.imagenes-dos {
+   
+}
+.segundo-izquierda {
+    margin:80px;
+    text-indent: 100px;
+    position: relative;
+    z-index: 50;
+}
+.segundo-medio {
+background-image: url(liga-justicia-batman-kO4H--1024x512@abc\ 1.png);
+background-repeat: no-repeat;
+height: 115px;
+width: 120px;
+border-radius: 90px;
+position:relative;
+left: 570px;
+margin-top:-210px;
+z-index: 50;
+}
+.segundo-derecha {
+position: relative;
+text-indent:940px;
+margin-top:-120px;
+z-index: 50;
+}
+.primer-titulo {
+    font-size:30px;
+    padding-top: 70px;
+    text-indent: 80px;
+}
+.texto-1 {
+    background-color: #F3F3F3;
+    position: relative;
+    width: 300px;
+    height: 350px;
+    left: 100px;
+    margin-top: -60px;
+    position: relative;
+    box-shadow: 2px 3px 3px rgb(199 199 199);
+    border-radius: 0px 0 10px 10px;
+}
+.adentro-primertitulo {
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 15px;
+font-size: 16px;
+}
+.boton-primertitulo {
+background-color: #00669F;
+position: relative;
+height: 50px;
+width: 100px;
+left: 95px;
+margin-top: 20px;
+font-size: 15px;
+color: #F3F3F3;
+border:#00669F
+}
+.texto-2 {
+background-color: #F3F3F3;
+position: relative;
+width: 300px;
+height: 350px;
+left:473px;
+margin-top:-350px;
+box-shadow: 2px 3px 3px rgb(199 199 199);
+border-radius: 0px 0 10px 10px;
+}
+.segundo-titulo {
+    padding-top: 70px;
+    font-size 30px;
+    text-indent: 90px;
+}
+.adentro-segundotitulo {
+    font-size:16px;
+    padding-top:20px;
+    padding-left:20px;
+    padding-right:15px;
+}
+.boton-segundotitulo {
+    background-color: #00669F;
+    position: relative;
+    height: 50px;
+    width: 100px;
+    left: 95px;
+    margin-top: 20px;
+    font-size: 15px;
+    color: #F3F3F3;
+    border: #00669F;
+}
+.texto-3 {
+    background-color: #F3F3F3;
+    position: relative;
+    width: 300px;
+    height: 350px;
+    left:858px;  
+    margin-top:-350px;
+    box-shadow: 2px 3px 3px rgb(199 199 199);
+    border-radius: 0px 0 10px 10px;
+}
+.tercer-titulo {
+    font-size:30px;
+    padding-top: 70px;
+    text-indent: 80px;
+}
+.adentro-tercertitulo {
+    position: relative;
+ padding-top: 20px;
+padding-left: 20px;
+padding-right: 15px;
+font-size: 16px;
+}
+.boton-tercertitulo {
+    background-color: #00669F;
+    position: relative;
+    height: 50px;
+    width: 100px;
+    left: 95px;
+    margin-top: 20px;
+    font-size: 15px;
+    color: #F3F3F3;
+    border: #00669F;
+}
+footer {
+    margin-top: 650px;
+    background-color: #00669F;
+    position: relative;
+    height: 50px;
+}
+.ultimo {
+    color: #FFF9F9;
+    line-height:19px;
+    font-size: 16px;
+    padding-top:20px;
+}
