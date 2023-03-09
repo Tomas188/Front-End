@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+* {
+    font-family: 'Roboto', sans-serif;
+    padding:0;
+    margin:0;
+}
+.inicio {
+    background-color: #222222;
+    box-shadow: rgb(183, 161, 161) 1px 5px 3px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    padding-top:20px;
+}
+
+.pizza{
+    position:relative;
+    left: 30px;
+}
+.inicio-2 {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -62px;
+    word-spacing: 30px;
+    position: relative;
+    right: 50px;
+    color: #ffff;
+}
+
+.delivery {
+   margin-top: 130px;
+   border-radius: 10px;
+   background-image: url(Delivery.png);
+   background-repeat: no-repeat;
+   width: 650px;
+   height: 900px;
+   background-size: contain;
+   position: relative;
+   left: 50px;
+}
+
+body {
+    background-color: #E5E5E5;
+}
+.arbolito {
+    border-radius: 10px;
+  width: 600px;
+  height: 410px;
+  background-color: #ffffff;
+  text-align: center;
+  position: relative;
+  padding: 30px;
+  float: right;
+  right: 150px;
+  margin-top:-900px
+}
+.podio {
+    color:#FC200C;
+    font-size:30px;
+    margin-top: 10px;
+}
+.arbolito-dos {
+    position: relative;
+    left: 180px;
+    padding-top: 130px;
+    height: 100px;
+}
+.top {
+    margin-top:-180px;
+    font-size:22px;
+    text-indent: -380px;
+}
+.numeracion {
+    margin-top:50px;
+    text-indent:-400px;
+    font-weight: bold;
+    font-size:18px;
+line-height: 30px;
+}
+.margin {
+text-align: center;
+}
+footer {
+   background-color:#222222;
+   background-repeat: no-repeat;
+   height: 240px;
+   margin-top: -200px;
+   list-style: none;
+}
+.final-1 {
+    text-decoration: none;
+    font-size:18px;
+    color: white;
+    padding-top: 30px;
+    line-height: 50px;
+    position: relative;
+    left: 50px; 
+    list-style: none;
+}
+.home-dos {
+    list-style: none;
+}
+.logopizza-dos {
+    display: flex;
+    justify-content: end;
+    position: relative;
+    right: 50px;
+}
+
